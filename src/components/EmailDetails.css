@@ -1,0 +1,9 @@
+.main-email-details{
+    margin: 1rem;
+}
+
+.message-body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

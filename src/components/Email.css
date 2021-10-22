@@ -1,0 +1,11 @@
+.email{
+    margin: 0.25rem;
+    border: 1rem;
+    border: solid black;
+    padding: .25rem;
+    padding-left: 1rem;
+    background-color: darkslategrey;
+    color: white;
+    border-radius: 2rem;
+    box-shadow: black;
+}
